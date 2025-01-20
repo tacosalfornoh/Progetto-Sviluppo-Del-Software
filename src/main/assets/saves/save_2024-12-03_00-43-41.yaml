@@ -1,0 +1,8 @@
+created_at: 2024-12-03_00-43-41
+player: 
+ name: "Player"
+ health: 100
+ position:
+  x: 178,00
+  y: 236,20
+enemies: []
